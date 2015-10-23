@@ -4,7 +4,7 @@ class Minstrel
 	end
 	
 	def introduce
-		puts "My name is #{name}!"
+		puts "My name is #{@name}!"
 	end
 	
 	def sing
