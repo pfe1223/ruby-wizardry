@@ -1,5 +1,5 @@
 module Colorize
   def color
-    :purple
+    [:red, :purple, :blue, :green, :yellow].sample
   end
 end
