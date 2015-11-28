@@ -26,5 +26,5 @@ class PandaFood < Food
   end
 end
 
-hotarths_food = PandaFood.new
+hogarths_food = PandaFood.new
 puts hogarths_food.analyse
